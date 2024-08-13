@@ -1,0 +1,5 @@
+[build]
+builder = "shell"
+
+[start]
+run = "./start.sh"
